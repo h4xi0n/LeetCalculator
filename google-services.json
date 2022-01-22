@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350069675405",
+    "project_id": "valorantboosters",
+    "storage_bucket": "valorantboosters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350069675405:android:4372293b90282f38a459c4",
+        "android_client_info": {
+          "package_name": "com.ak453.valorantboosters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350069675405-9q6ibhbd7si6vfgo3grj14usictgspg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ak453.valorantboosters",
+            "certificate_hash": "2ba302ef73a2871deeb89c236c5dfb5bab5dc2e0"
+          }
+        },
+        {
+          "client_id": "350069675405-bbuaii2mpig11h7rsad4kh2m92jh3inl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ETioFOLK8bOARH4n95x9NvHTXQgkDNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350069675405-bbuaii2mpig11h7rsad4kh2m92jh3inl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
